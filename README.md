@@ -1,3 +1,2 @@
 # Mi-repositorio
-Talleres progra
-Ohh que locura es esta 
+Talleres programación orientada a objetos. 
